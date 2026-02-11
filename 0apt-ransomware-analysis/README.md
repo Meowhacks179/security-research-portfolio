@@ -1,3 +1,7 @@
+![Threat Research](https://img.shields.io/badge/Focus-Threat%20Research-blue)
+![Malware Analysis](https://img.shields.io/badge/Skill-Malware%20Analysis-red)
+![Active](https://img.shields.io/badge/Status-Active-brightgreen)
+
 # 0APT Ransomware Analysis
 
 Technical analysis of the alleged **0APT ransomware group**, an entity that initially appeared to be an emerging ransomware threat but was later assessed to be likely fabricated or misrepresented.
